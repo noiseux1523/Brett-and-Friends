@@ -3,6 +3,11 @@ Brett-and-Friends
 
 Brett and Friends data exploration for homebrewing
 
+To look
+
+* https://github.com/ConnorGriffin/Brewgen/tree/dev
+* https://www.reddit.com/r/Homebrewing/comments/el902p/hop_flavor_calculator_design_assistance_and/ (
+
 Project Organization
 ------------
 
